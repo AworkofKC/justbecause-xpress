@@ -11,8 +11,8 @@ This repository contains the development for the *official landing page* of Just
 
 ### ✨ Upcoming Features
 
-- **Say It For Me** – A heartfelt message writing service for those who can't find the right words.
-- **Send a Note** – A minimalist tool for sharing short love notes with others via email or text.
+- **Say It For Me** - A heartfelt message writing service for those who can't find the right words.  
+- **Etsy Shop** - A curated space featuring love-themed prints, minimalist designs, and creative expressions from Just Because Xpressions.  
 
 Stay tuned😁
 
